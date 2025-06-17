@@ -1,0 +1,36 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchainhub
+
+openai
+groq
+faiss-cpu
+chromadb
+
+fastapi
+uvicorn
+sse_starlette
+
+python-dotenv
+beautifulsoup4
+bs4
+pypdf
+wikipedia
+arxiv
+cassio
+
+streamlit
+
+
+
+
+
+
+
+
+
+## pip install -r requirements.txt
+## .venv\Scripts\Activate.ps1   
